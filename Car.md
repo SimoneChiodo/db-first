@@ -8,7 +8,7 @@
 | model           | VARCHAR(50) | NOT NULL                            |         |                         |
 | color           | VARCHAR(50) | NOT NULL                            |         |                         |
 | fuel_type       | VARCHAR(30) | NOT NULL                            |         |                         |
-| production_year | DATE        | NOT NULL                            |         |                         |
+| production_year | YEAR        | NOT NULL                            |         |                         |
 | doors_number    | INT         | NOT NULL - UNSIGNED                 |         |                         |
 | transmission    | VARCHAR(30) | NOT NULL                            |         |                         |
 | conditions      | CHAR(1)     | NULL                                |         | "n" => new; "u" => used |
