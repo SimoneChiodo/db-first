@@ -1,5 +1,5 @@
-# Esercizio: Database First
+# Database Auto Usate
 
-## Testo:
+## Descrizione
 
-Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardanti delle auto usate messe in vendita da un concessionario
+L’obiettivo è creare la struttura di una tabella (ad esempio per un database relazionale) che possa memorizzare tutte le informazioni utili riguardanti le auto usate messe in vendita da un concessionario.
